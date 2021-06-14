@@ -37,4 +37,5 @@ I want contributors who can help me list Youtubers, even Vtubers.
 14. Bunmiho channel
 15. pakatube!
 16. レペゼン地球
-1. kano eiko
+17. kano eiko
+18. mahoto watanabe

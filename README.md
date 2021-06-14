@@ -22,3 +22,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Favorite Artists
 1. Kanako Ito
+2. RADWIMPS

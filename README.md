@@ -34,3 +34,4 @@ Goal - I want contributors to help me list some favorite pokemon.
 13. Skitty
 14. Ditto
 15. Gardvoir
+16. Jigrrypuff
